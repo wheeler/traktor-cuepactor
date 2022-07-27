@@ -1,2 +1,2 @@
-# traktor_cuepactor
-Tools to tidy up your Traktor collection cues
+# Traktor Cuepactor
+Tools to tidy up your Traktor collection hotcues
