@@ -29,7 +29,8 @@ you cues you are going to use
 
 ## Installation
 
-(July 2022) this requires a fork of `traktor-nml-utils` that has been updated to parse current collection nml files with features like smartlists
+(July 2022) this requires a fork of `traktor-nml-utils` that has been updated to parse current collection nml files with features like smartlists.
 ```shell
 pip install git+https://github.com/b1kjsh/traktor-nml-utils.git@b1kjsh/fixing_smartlists_and_indexing
 ```
+It has been tested with my personal `collection.nml` from Traktor Pro 3.5.1
